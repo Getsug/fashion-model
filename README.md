@@ -1,2 +1,2 @@
-# fashion-model
-Mnist data set fashion model
+## fashion-model
+Train an ML model using Mnist fashion data set
