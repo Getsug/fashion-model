@@ -1,2 +1,2 @@
 ## fashion-model
-Train an ML model using Mnist fashion data set
+The code trains an ML model using Mnist fashion data set
